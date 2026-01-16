@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Seymour+One&display=swap');
 
 body{
-    background-image: url(/images/website_background.jpg);
+    background-image: url(website_background.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
@@ -70,4 +70,5 @@ button:hover {
     background-color: rgba(0,136,169,0.8);
 
 }
+
 
